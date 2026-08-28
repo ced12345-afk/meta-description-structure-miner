@@ -1,13 +1,13 @@
-# Meta Description Structure Miner
+# Meta Description Helpers for Google Sheets
 
-Analyse des meta descriptions d’un ensemble d’URLs pour repérer des structures réutilisables, des longueurs, des CTA et des motifs de formulation.
+Fonctions Apps Script pour varier des introductions de meta descriptions et générer une proposition de snippet depuis une URL.
 
 ## Cas d’usage
 
-- comparer des snippets concurrents ;
-- extraire les formulations qui reviennent dans une SERP ;
-- repérer les patterns de longueur, de preuve et d’appel à l’action ;
-- préparer des variantes de meta descriptions sans dupliquer les textes.
+- varier une introduction trop répétitive ;
+- produire une première proposition depuis une URL ;
+- préparer des variantes sans dupliquer les textes ;
+- relire le résultat au regard de l’intention et de la promesse de la page.
 
 ## Documentation
 
