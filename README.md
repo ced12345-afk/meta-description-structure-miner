@@ -13,6 +13,10 @@ Analyse des meta descriptions d’un ensemble d’URLs pour repérer des structu
 
 [Analyser les structures de meta descriptions](https://www.consultant-geo.paris/outil-meta-descriptions).
 
+## Installation
+
+Ajoutez `src/Code.gs` à un projet Apps Script lié au tableur. `MODIFY_META_DESCRIPTION` varie une introduction existante. `SheetGPT` nécessite `OPENAI_API_KEY` dans les propriétés du script et utilise `OPENAI_MODEL` si cette propriété est définie.
+
 ## Licence
 
 MIT.
